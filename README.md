@@ -1,7 +1,13 @@
 # Customised-Terminator Terminal
 
-Run Python Script to download Terminator terminal in Linux.
+## Get four windows every-time you open your Terminator.
 
-Replace your old config file with this config file to customize your Terminator Terminal.
+![](https://github.com/M1M3x01/customised-terminator/blob/master/Customised_Terminator_Terminal.png)
 
-The configuration file is located in this path: ~/.config/terminator/config 
+1. Run terminator.py Python Script to download Terminator terminal in Linux.
+
+2. If you already have Terminator then just follow the next step.
+
+3. Replace your old config file with this config file to customise your Terminator Terminal.
+
+4. The configuration file is located in this path: ~/.config/terminator/config 
